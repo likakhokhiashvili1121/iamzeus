@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iamzeus</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enterlast_Name">lastName</string>
+    <string name="age">age</string>
+    <string name="save">save</string>
+    <string name="entername">name</string>
+    <string name="data">data</string>
+    <string name="create">create</string>
+</resources>
